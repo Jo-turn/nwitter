@@ -1,3 +1,3 @@
-Twitter clone coding start at 2020 1227 01:14
+2020 1227 01:14 Twitter clone coding begins
 
-Basic Setup firebase, router done at 2020 1227 02:41
+2020 1227 02:41 Basic setup firebase, router complete
